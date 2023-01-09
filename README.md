@@ -1,16 +1,14 @@
-### Hi there 👋
+ ### Who Am I
 
-<!--
-**gabrielfnasc/gabrielfnasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 👾 Hi, My name is Gabriel and i am a Developer. Lately i´ve been designing and building scalable products using NodeJs with Typescript on the Back-End and Flutter on the Front-End. 
 
-Here are some ideas to get you started:
+#### I am an ambitious programmer then i am always improving myself learning new technologies, facing problems that challenges me and seeking for learn with people who knows more than i do.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Settle down is something out of the way to me.
+
+ #### Here is some interesting information :
+ #### Linkedin: https://www.linkedin.com/in/gabriel-ferreira-nascimento/
+ #### Email: ferreiranbiel@gmail.com
+
+
+Get in touch with me! 👋
